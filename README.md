@@ -26,4 +26,4 @@ This project serves as a digital, interactive CV that can be easily shared with 
 
 ## 📸 Preview
 Here’s a screenshot of the CV app in action:
-![CV Preview](profile.png)
+![CV Preview](Profile.png)

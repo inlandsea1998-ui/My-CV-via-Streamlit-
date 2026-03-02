@@ -7,12 +7,12 @@ It highlights my academic background, certifications, professional experiences, 
 
 ## 🌐 Live Demo
 You don’t need to run this project locally.  
-Visit the live CV here: **[Streamlit App URL](https://my-cv-inlandsea1998.streamlit.app/)**
+Visit the live CV here: **[ App URL](https://my-cv-inlandsea1998.streamlit.app/)**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Python 3.9+**
+- **Python**
 - **Streamlit** for interactive UI
 - **Markdown** for content formatting
 - **GitHub** for version control and hosting
